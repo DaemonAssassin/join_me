@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JoinMe</string>
+
+    <string name="header_text">Sign in</string>
+    <string name="btn_text">Login</string>
+    <string name="username_hint_text">Username</string>
+    <string name="password_hint_text">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or_sign_in">or sign in with</string>
+    <string name="google_icon">Google icon</string>
+    <string name="twitter_icon">Twitter icon</string>
+    <string name="fb_icon">FB icon</string>
+
+    <string name="profile_name">Mateen Mehmood</string>
+    <string name="designation">Android Developer</string>
+    <string name="organization">CAS</string>
+    <string name="batch">Android 6 To 7</string>
+
+</resources>
